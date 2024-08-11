@@ -40,6 +40,40 @@ Existing Voting System:
 ![image](https://github.com/user-attachments/assets/abbebf21-1b1c-4ca6-9a04-1d432eec4497)
 
  
+# PROJECT SNAP SHOTS
+
+                                               Homepage
+
+![image](https://github.com/user-attachments/assets/251ab7f0-81da-444e-837c-7b336b1113ee)
+
+                                           Registration Page
+
+![image](https://github.com/user-attachments/assets/1add3735-ea43-4aaf-a206-34eb65a11b85)
+
+                                          Voter Dashboard (before voting)
+
+![image](https://github.com/user-attachments/assets/b86224a3-b077-4687-a37e-e266fc971900)
+
+                                          Voter Dashboard (after voting)
+
+![image](https://github.com/user-attachments/assets/05fd0086-e86e-431f-a05e-5230d1ed431b)
+
+
+                                             MySQL Database
+
+
+![image](https://github.com/user-attachments/assets/f670936b-9475-451d-8428-6f3747c14e69)
+
+                                           Database table structure
+
+![image](https://github.com/user-attachments/assets/d13d75d9-c6d9-4a44-83dc-78e5d656115e)
+
+
+
+
+                                                  
+
+
 
 
 
