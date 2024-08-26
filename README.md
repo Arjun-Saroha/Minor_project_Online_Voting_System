@@ -66,9 +66,9 @@ Existing Voting System:
 
                                            Database table structure
 
-![image](https://github.com/user-attachments/assets/d13d75d9-c6d9-4a44-83dc-78e5d656115e)
 
 
+![Screenshot 2024-08-26 102111](https://github.com/user-attachments/assets/29a7af5f-b4f8-4e3c-9dcb-9873aba6a90b)
 
 
                                                   
